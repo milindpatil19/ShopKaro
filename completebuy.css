@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(251, 125, 125);
+  
 }
 .inner {
   width: 500px;
@@ -36,5 +36,10 @@ button {
 button:hover{
     background-color: red;
     color: white;
-    font-size: 25px;
+
+}
+button::after{
+  background-color: red;
+  color: white;
+
 }

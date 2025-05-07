@@ -19,6 +19,10 @@ h3 {
   padding-top: 5px;
   display: inline-block;
 }
+
+#logo {
+  color: white;
+}
 .name_anchor {
   padding-top: 5px;
   font-size: 25px;
@@ -97,7 +101,7 @@ a {
   justify-content: center;
   background-image: url("backimg.png");
   background-size: cover;
-  opacity: 0.7;
+  opacity: 1;
 }
 .form {
   width: 500px;

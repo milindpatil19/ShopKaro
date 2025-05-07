@@ -6,7 +6,7 @@
 body {
   background-image: url("backimg.png");
   background-size: contain;
-  opacity: 0.9;
+  opacity: 1;
 }
 .name {
   width: 100%;
@@ -21,6 +21,9 @@ body {
 h3 {
   padding-top: 5px;
   display: inline-block;
+}
+#logo {
+  color: white;
 }
 .name_anchor {
   padding-top: 5px;

@@ -18,9 +18,13 @@
     justify-content: space-between;
     align-items: center;
   }
-  h1{
+  h3{
     padding-top: 5px;
     display: inline-block;
+    font-size: 32px;
+  }
+  #logo {
+    color: white;
   }
   .name_anchor {
     padding-top: 5px;
